@@ -1,7 +1,8 @@
 # Hey There! 
+# <img src="{"client_meta":{"background_color":{"r":0.11764705926179886,"g":0.11764705926179886,"b":0.11764705926179886,"a":1},"thumbnail_size":{"width":400,"height":258},"render_coordinates":{"x":-405,"y":-411,"width":1910,"height":1230.56884765625}},"file_name":"GItHub Coverpage","developer_related_links":[]}" alt="Banner Image" width="800">
 # 💫 About Me:
 🔭 I’m currently working as Data analyst<br>👯 I’m looking to collaborate on More Live Projects<br>🤝 I’m looking for help with More Creative Minds<br>🌱 I’m currently learning TensorFlow<br>💬 Ask me about Tech Gadgets<br>⚡ Fun fact " Zoned Out but, Never truly Lost !"
-<img src="{"client_meta":{"background_color":{"r":0.11764705926179886,"g":0.11764705926179886,"b":0.11764705926179886,"a":1},"thumbnail_size":{"width":400,"height":258},"render_coordinates":{"x":-405,"y":-411,"width":1910,"height":1230.56884765625}},"file_name":"GItHub Coverpage","developer_related_links":[]}" alt="Banner Image" width="800">
+
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/vedantgaikwad) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Vedaant07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vedantgaikwad7) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/24815781) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Vedant-Gaikwad-the-animator) 
