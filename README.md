@@ -2,6 +2,13 @@
 # 💫 About Me:
 🔭 I’m currently working as Data analyst<br>👯 I’m looking to collaborate on More Live Projects<br>🤝 I’m looking for help with More Creative Minds<br>🌱 I’m currently learning TensorFlow<br>💬 Ask me about Tech Gadgets<br>⚡ Fun fact " Zoned Out but, Never truly Lost !"
 
+<p align=”center”>
+
+<img width=”200" height=”200" src=”https://user-images![thumbnail](https://github.com/VEDAANT711/VEDAANT711/assets/89693173/1fdcc565-ca84-4e3d-b5b7-3118d28d7313)
+." alt=”my banner”>
+
+</p>
+
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/vedantgaikwad) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Vedaant07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vedantgaikwad7) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/24815781) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Vedant-Gaikwad-the-animator) 
