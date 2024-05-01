@@ -2,12 +2,7 @@
 # 💫 About Me:
 🔭 I’m currently working as Data analyst<br>👯 I’m looking to collaborate on More Live Projects<br>🤝 I’m looking for help with More Creative Minds<br>🌱 I’m currently learning TensorFlow<br>💬 Ask me about Tech Gadgets<br>⚡ Fun fact " Zoned Out but, Never truly Lost !"
 
-<p align=”center”>
-
-<img width=”200" height=”200" src=”https://user-images![thumbnail](https://github.com/VEDAANT711/VEDAANT711/assets/89693173/1fdcc565-ca84-4e3d-b5b7-3118d28d7313)
-." alt=”my banner”>
-
-</p>
+{"client_meta":{"background_color":{"r":0.11764705926179886,"g":0.11764705926179886,"b":0.11764705926179886,"a":1},"thumbnail_size":{"width":400,"height":258},"render_coordinates":{"x":-405,"y":-411,"width":1910,"height":1230.56884765625}},"file_name":"GItHub Coverpage","developer_related_links":[]}
 
 
 ## 🌐 Socials:
