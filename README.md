@@ -23,7 +23,8 @@
 ![](https://github-contributor-stats.vercel.app/api?username=VEDAANT711&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<img src='https://randommeme-five.vercel.app/![bf2a43e0d76918d1f38537acc9b59d6c245a6eb1 - Copy](https://github.com/VEDAANT711/VEDAANT711/assets/89693173/52b9670a-161f-4d18-b6a5-ae8b94793e28)
+' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=VEDAANT711&icon=2&color=0)](https://visitcount.itsvg.in)
