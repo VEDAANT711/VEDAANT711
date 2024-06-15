@@ -1,5 +1,6 @@
 # Hey There! 
-![Header](./"C:\Users\ACER\OneDrive\Desktop\github-header-image.png".png)
+![Header Image](./C:\Users\ACER\OneDrive\Desktop\GItHubCoverpage/image.png)
+
 # 💫 About Me:
 🔭 I’m currently working as Data analyst<br>👯 I’m looking to collaborate on More Live Projects<br>🤝 I’m looking for help with More Creative Minds<br>🌱 I’m currently learning TensorFlow<br>💬 Ask me about Tech Gadgets<br>⚡ Fun fact " Zoned Out but, Never truly Lost !"
 
