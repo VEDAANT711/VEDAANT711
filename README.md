@@ -25,9 +25,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=VEDAANT711&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/!(https://github.com/VEDAANT711/VEDAANT711/assets/89693173/52b9670a-161f-4d18-b6a5-ae8b94793e28)
-' style="height: 400px;"/>
 
 
 ---
