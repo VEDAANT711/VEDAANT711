@@ -1,5 +1,5 @@
 # Hey There! 
-![Technical Header Image](https://github.com/VEDAANT711/VEDAANT711/blob/main/GIT.png?raw=true)
+![Technical Header Image](https://github.com/VEDAANT711/VEDAANT711/blob/main/GIT.png?raw=true.
 # 💫 About Me:
 🔭 I’m currently working as Data analyst<br>👯 I’m looking to collaborate on More Live Projects<br>🤝 I’m looking for help with More Creative Minds<br>🌱 I’m currently learning TensorFlow<br>💬 Ask me about Tech Gadgets<br>⚡ Fun fact " Zoned Out but, Never truly Lost !"
 
